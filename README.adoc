@@ -1,4 +1,8 @@
+:warning-caption: :warning:
+
 = batch-rename
+
+WARNING: Just use `vidir`
 
 Rename multiple files at once in a file editor. That way you can use editor tools like navigation, regex and multi-cursor.
 
